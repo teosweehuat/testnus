@@ -1,4 +1,4 @@
-# This a a headline
+# This is a headline
 
 ## This is a smaller headline
 
